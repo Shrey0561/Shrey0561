@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./il_fullxfull.5951491243_n5uj.avif" alt="GitHub banner">
+  <img src="./banner.png" alt="GitHub banner">
 </p>
 ## Hi there 👋
 
