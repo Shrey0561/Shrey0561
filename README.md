@@ -1,19 +1,16 @@
 <p align="center">
   <img src="./banner.png" alt="GitHub banner">
 </p>
-## Hi there 👋
 
-<!--
-**Shrey0561/Shrey0561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shreya!
+**Aspiring Data Analyst | People, Patterns & Psychology**
 
-Here are some ideas to get you started:
+I'm curious about human behavior and driven to find meaning in the mess. I use data to explore the *why* behind what people do and translate those insights into clarity and action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in psychology and data analysis, I enjoy creating structure in workflows, decision-making, and sometimes even in the games I play. I thrive in spaces where curiosity meets logic, ideally with a controller in one hand and a notebook in the other.
+
+## Tech I'm Working with 
+`SQL` `Excel` `Power BI` 
+
+
+
