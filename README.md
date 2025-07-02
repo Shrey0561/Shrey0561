@@ -2,8 +2,13 @@
   <img src="./banner.png" alt="GitHub banner">
 </p>
 
-# Hi, I'm Shreya!👋
-**Aspiring Data Analyst | People, Patterns & Psychology**
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    🌟 Hi, I'm Shreya! Aspiring Data Analyst 🌟
+  </marquee>
+</h1>  
+
+**People, Patterns & Psychology**
 
 I'm curious about human behavior and driven to find meaning in the mess. I use data to explore the *why* behind what people do and translate those insights into clarity and action.
 
