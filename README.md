@@ -17,7 +17,8 @@ With a background in psychology and a growing focus on data analysis, I enjoy cr
 ![Excel](https://img.shields.io/badge/Excel-4361EE?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFD60A?style=flat&logo=power-bi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4CC9F0?style=flat&logo=mysql&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-4CC9F0?style=flat&logo=mysql&logoColor=red)
+![Pandas](https://img.shields.io/badge/Pandas-4CC9F0?style=flat&logo=mysql&logoColor=yellow)
 
 
 
