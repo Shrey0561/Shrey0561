@@ -19,7 +19,8 @@ With a background in psychology and a growing focus on data analysis, I enjoy cr
 ![MySQL](https://img.shields.io/badge/MySQL-4CC9F0?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=yellow)
-![Machine Learning](https://img.shields.io/badge/Tech-Machine%20Learning-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6D00?style=flat&logo=python&logoColor=white)
+
 
 
 
