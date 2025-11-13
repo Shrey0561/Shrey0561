@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5E2B91&height=200&section=header&text=Shreya%20Srinath&fontSize=55&fontColor=F6E6FF&animation=twinkling" />
 </div>
 
 <p align="center">
