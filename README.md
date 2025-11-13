@@ -12,14 +12,19 @@ I'm curious about human behavior and driven to find meaning in the mess. I use d
 
 With a background in psychology and a growing focus on data analysis, I enjoy creating structure in workflows, decision-making, and sometimes even in the games I play. I thrive in spaces where curiosity meets logic, ideally with a controller in one hand and a notebook in the other 🎮
 
-## 💻 Tech I'm Working with
+<div align="left">
 
-![Excel](https://img.shields.io/badge/Excel-4361EE?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFD60A?style=flat&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4CC9F0?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=yellow)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6D00?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+### 🔍 What I Do
+I break down messy datasets and rebuild them into clarity dashboards, models, insights, and decisions. My projects span HR analytics, churn modeling, e-commerce behavior, and operational bottlenecks.
 
 
 
