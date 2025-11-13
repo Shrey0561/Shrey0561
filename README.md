@@ -12,6 +12,7 @@ I'm curious about human behavior and driven to find meaning in the mess. I use d
 
 With a background in psychology and a growing focus on data analysis, I enjoy creating structure in workflows, decision-making, and sometimes even in the games I play. I thrive in spaces where curiosity meets logic, ideally with a controller in one hand and a notebook in the other 🎮
 
+
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +26,14 @@ With a background in psychology and a growing focus on data analysis, I enjoy cr
 
 ### 🔍 What I Do
 I break down messy datasets and rebuild them into clarity dashboards, models, insights, and decisions. My projects span HR analytics, churn modeling, e-commerce behavior, and operational bottlenecks.
+
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0561&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey0561&theme=radical)
+
+
 
 
 
