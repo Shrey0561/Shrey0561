@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./banner.png" alt="GitHub banner">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+</div>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
