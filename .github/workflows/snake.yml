@@ -2,53 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight UTC
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: "Shrey0561"
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: Shrey0561
+          outputs: dist/snake.svg
 
-      - name: Push to output branch
-        uses: actions/upload-artifact@v4
+      - name: Deploy snake to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout output branch
-        uses: actions/checkout@v4
-        with:
-          ref: output
-
-      - name: Download Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: snake
-
-      - name: Move Snake to output
-        run: mv github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push origin output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
