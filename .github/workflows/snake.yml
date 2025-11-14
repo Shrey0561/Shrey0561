@@ -17,8 +17,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Shrey0561
-          color_snake: "D4AF37" 
-          color_path: "#000000#,#222222,#444444,#666666,#888888
           outputs: dist/snake.svg
 
       - name: Deploy snake to output branch
