@@ -30,11 +30,11 @@ With a background in psychology and a growing focus on data analysis, I enjoy cr
 ### 🔍 What I Do
 I break down messy datasets and rebuild them into clarity dashboards, models, insights, and decisions. My projects span HR analytics, churn modeling, e-commerce behavior, and operational bottlenecks.
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&theme=radical)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&hide_title=false&count_private=true&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0561&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0561&layout=compact&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey0561&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shrey0561&theme=black-ice&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=FFFFFF)
 
 ![snake gif](https://raw.githubusercontent.com/Shrey0561/Shrey0561/output/snake.svg)
 
