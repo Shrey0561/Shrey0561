@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5E2B91&height=200&section=header&text=Shreya%20Srinath&fontSize=55&fontColor=F6E6FF&animation=twinkling" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=55&duration=4000&pause=1500&color=D4AF37&center=true&vCenter=true&width=900&lines=Shreya+Srinath" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-D4AF37?style=flat&labelColor=000000" />
+</p>
+
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
