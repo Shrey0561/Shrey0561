@@ -33,7 +33,6 @@ I break down messy datasets and rebuild them into clarity dashboards, models, in
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrey0561&theme=radical)
 
-<img src="https://raw.githubusercontent.com/Shrey0561/Shrey0561/output/snake.svg" alt="snake gif" />
 
 
 
