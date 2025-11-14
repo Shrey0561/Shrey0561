@@ -36,7 +36,7 @@ I break down messy datasets and rebuild them into clarity dashboards, models, in
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shrey0561&theme=black-ice&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=FFFFFF)
 
-
+![snake gif](https://raw.githubusercontent.com/Shrey0561/Shrey0561/output/snake.svg)
 
 
 
