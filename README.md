@@ -32,7 +32,7 @@ I break down messy datasets and rebuild them into clarity dashboards, models, in
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&hide_title=false&count_private=true&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0561&layout=compact&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey0561&layout=compact&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shrey0561&theme=black-ice&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=FFFFFF)
 
