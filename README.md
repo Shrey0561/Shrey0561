@@ -11,10 +11,12 @@
   </marquee>
 </p>
 
-I'm curious about human behavior and driven to find meaning in the mess. I use data to explore the *why* behind what people do and translate those insights into clarity and action.
+I am curious about human behavior and driven to find meaning in messy data.
+With a background in psychology and a growing focus on data analysis, I use data to explore *why* people behave the way they do and translate insights into clear, actionable decisions.
 
-With a background in psychology and a growing focus on data analysis, I enjoy creating structure in workflows, decision-making, and sometimes even in the games I play. I thrive in spaces where curiosity meets logic, ideally with a controller in one hand and a notebook in the other 🎮
+I enjoy bringing structure to ambiguity, whether that's within HR processes, customer behavior, or operational workflows. My projects span HR analytics, churn analysis, e-commerce behavior, and process bottlenecks.
 
+When I am not working with data, you'll probably find me gaming 🎮 or mapping ideas in a notebook. 
 
 <div align="left">
 
@@ -28,7 +30,7 @@ With a background in psychology and a growing focus on data analysis, I enjoy cr
 </div>
 
 ### 🔍 What I Do
-I break down messy datasets and rebuild them into clarity dashboards, models, insights, and decisions. My projects span HR analytics, churn modeling, e-commerce behavior, and operational bottlenecks.
+I clean, structure, and analyze real-world datasets to build dashboards, uncover patterns, and support business decisions.
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&hide_title=false&count_private=true&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
