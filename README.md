@@ -7,16 +7,32 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    🌟 Hi, I'm Shreya • Aspiring Data Analyst • Understanding Behavior, Patterns & Performance 🌟
+    🌟 Hi, I'm Shreya • Data Analyst • Behavioral & Business Analytics 🌟
   </marquee>
 </p>
 
-I am curious about human behavior and driven to find meaning in messy data.
-With a background in psychology and a growing focus on data analysis, I use data to explore *why* people behave the way they do and translate insights into clear, actionable decisions.
+📫 Open to Data Analyst | People Analytics | Business Analytics roles
 
-I enjoy bringing structure to ambiguity, whether that's within HR processes, customer behavior, or operational workflows. My projects span HR analytics, churn analysis, e-commerce behavior, and process bottlenecks.
+I build structured, decision-focused analytics projects across people, customer, and market datasets.
 
-When I am not working with data, you'll probably find me gaming 🎮 or mapping ideas in a notebook. 
+With a background in psychology, economics, and international relations, I analyze patterns behind retention, performance, and revenue, turning messy data into clear business signals.
+
+My projects span: 
+* HR analytics & attrition modeling
+* Customer funnel & revenue-at-risk analysis
+* Platform & portfolio strategy
+* Process bottleneck simulations
+
+I focus on **business impact first, tools second.**
+
+When I'm not analyzing data, I'm either gaming 🎮 or mapping ideas in a notebook. 
+
+### 🔍 What I do
+* Clean and structure raw datasets (**1K-16K+** records)
+* Build SQL-based segmentation & cohort analysis
+* Create Excel & Power BI dashboards
+* Apply predictive modeling (**Logistic Regression**)
+* Translate analysis into actionable recommendations
 
 <div align="left">
 
@@ -25,12 +41,9 @@ When I am not working with data, you'll probably find me gaming 🎮 or mapping 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
-
-### 🔍 What I Do
-I clean, structure, and analyze real-world datasets to build dashboards, uncover patterns, and support business decisions.
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrey0561&show_icons=true&hide_title=false&count_private=true&theme=dark&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
